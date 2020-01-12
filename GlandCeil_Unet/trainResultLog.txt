@@ -1,0 +1,37 @@
+E:\deep_learning\Anaconda3\envs\tensorFlow_v1.5\python.exe C:/Users/liden/deep_learning/mouth_project/GlandCeil_Unet/glandceilunet2dtest.py
+WARNING:tensorflow:From C:\Users\liden\deep_learning\mouth_project\GlandCeil_Unet\unet2d\model_GlandCeil.py:258: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+2019-12-22 22:58:49.342165: I C:\tf_jenkins\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+epochs 0 training_loss ,Training_accuracy => -0.36747,0.36747 
+epochs 1 training_loss ,Training_accuracy => -0.33053,0.33053 
+epochs 2 training_loss ,Training_accuracy => -0.35156,0.35156 
+epochs 3 training_loss ,Training_accuracy => -0.46991,0.46991 
+epochs 4 training_loss ,Training_accuracy => -0.40774,0.40774 
+epochs 5 training_loss ,Training_accuracy => -0.43538,0.43538 
+epochs 6 training_loss ,Training_accuracy => -0.59099,0.59099 
+epochs 7 training_loss ,Training_accuracy => -0.49626,0.49626 
+epochs 8 training_loss ,Training_accuracy => -0.41649,0.41649 
+epochs 9 training_loss ,Training_accuracy => -0.66239,0.66239 
+epochs 10 training_loss ,Training_accuracy => -0.55280,0.55280 
+epochs 20 training_loss ,Training_accuracy => -0.68678,0.68678 
+epochs 30 training_loss ,Training_accuracy => -0.78653,0.78653 
+epochs 40 training_loss ,Training_accuracy => -0.61695,0.61695 
+epochs 50 training_loss ,Training_accuracy => -0.53974,0.53974 
+epochs 60 training_loss ,Training_accuracy => -0.75158,0.75158 
+epochs 70 training_loss ,Training_accuracy => -0.74769,0.74769 
+epochs 80 training_loss ,Training_accuracy => -0.88025,0.88025 
+epochs 90 training_loss ,Training_accuracy => -0.64412,0.64412 
+epochs 100 training_loss ,Training_accuracy => -0.52336,0.52336 
+epochs 200 training_loss ,Training_accuracy => -0.93181,0.93181 
+epochs 300 training_loss ,Training_accuracy => -0.87650,0.87650 
+epochs 400 training_loss ,Training_accuracy => -0.91141,0.91141 
+epochs 500 training_loss ,Training_accuracy => -0.55521,0.55521 
+epochs 600 training_loss ,Training_accuracy => -0.54952,0.54952 
+epochs 700 training_loss ,Training_accuracy => -0.97375,0.97375 
+epochs 800 training_loss ,Training_accuracy => -0.91300,0.91300 
+epochs 900 training_loss ,Training_accuracy => -0.91514,0.91514 
+epochs 999 training_loss ,Training_accuracy => -0.97658,0.97658 
+Model saved in file: ./model/unet2dglandceil.pd
+
+Process finished with exit code 0
